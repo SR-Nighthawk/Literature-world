@@ -1,0 +1,495 @@
+       <div class="container-fluid js-tm-page-content" data-page-no="2">
+
+                            <div class="cd-bg-video-wrapper" data-video="video/red-flower">
+                                <!-- video element will be loaded using jQuery -->
+                            </div> <!-- .cd-bg-video-wrapper -->
+                            <div class="container">
+                            <div class="row flex-items-xs-left">
+                        <div class="col-xs-12">
+                                    <div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title"> The Wrong Box </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/the_wrong_box.pdf">THE WRONG BOX</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">The Wrong Box is a black comedy novel co-written by Robert Louis Stevenson and Lloyd Osbourne, first published in 1889. The story is about two brothers who are the last two surviving members of a tontine.</p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">The Little Prince </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/the_little_prince.pdf">The Little Prince</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> A Little Princess is a children's novel by Frances Hodgson Burnett, first published as a book in 1905. It is an expanded version of the short story "Sara Crewe: or, What Happened at Miss Minchin's", which was serialized in St. Nicholas Magazine from December 1887, and published in book form in 1888.</p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Beyond Good and Evil </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/beyond-good-and-evil.pdf">Beyond Good and Evil</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">Beyond Good and Evil: Prelude to a Philosophy of the Future is a book by philosopher Friedrich Nietzsche that expands the ideas of his previous work Thus Spoke Zarathustra with a more critical and polemical approach. It was first published in 1886.  </p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">101 Memorable Poems of Seven Centuries </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/101-Memorable-Poems-of-Seven-Centuries.pdf">101 Memorable Poems of Seven Centuries </a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">The book spans seven centuries, up to the 1940s. Only one poem by each author is included, and readers will have their own ideas about which ones I should have chosen. However, all, I hope, are memorable in the senses of being both easy to learn, and well worth the learning. </p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Pride and Prejudice </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/pride_and_prejudice.pdf">Pride and Prejudice </a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> Pride and Prejudice is an 1813 romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness </p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">The Diary of a young girl </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/the_diary_of_a_young_girl.pdf">the Diary of a young girl</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">The Diary of a Young Girl, also known as The Diary of Anne Frank, is a book of the writings from the Dutch-language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands.</p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Think Yourself Rich Use the Power of Your Subconscious Mind to Find True Wealth </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/Think%20Yourself%20Rich_%20Use%20the%20Power%20of%20Your%20Subconscious%20Mind%20to%20Find%20True%20Wealth%20(%20PDFDrive%20).pdf">Think Yourself Rich Use the Power of Your Subconscious Mind to Find True Wealth</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">A native of Ireland, Joseph Murphy (1898 — 1981) was a prolific and widely admired New Thought minister and writer, best known for his motivational classic, The Power of Your Subconscious Mind, an international bestseller since it first blazed onto the self-help scene. His pamphlet How to Attract Money first appeared in 1955, and likewise entered many editions. Murphy wrote widely on the auto-suggestive and metaphysical faculties of the human mind and is considered one of the pioneering voices of affirmative-thinking philosophy.</p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">The Whole-Brain Child 12 Revolutionary Strategies to Nurture Your Child's Developing Mind </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/The%20Whole-Brain%20Child_%2012%20Revolutionary%20Strategies%20to%20Nurture%20Your%20Child's%20Developing%20Mind%20(%20PDFDrive%20).pdf">The Whole-Brain Child 12 Revolutionary Strategies to Nurture Your Child's Developing Mind</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> In this pioneering, practical book for parents, neuroscientist Daniel J. Siegel and parenting expert Tina Payne Bryson explain the new science of how a child's brain is wired and how it matures.</p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title"> Law of Attraction </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/Law%20of%20Attraction_%20The%20Secret%20Power%20of%20The%20Universe%20(Using%20Your%20Subconscious%20Mind,%20Visualization%20&%20Meditation%20for%20Manifesting%20Happiness,%20Love,%20Money%20&%20Success)%20Inspirational%20Self%20Help%20Book%20(%20PDFDrive%20).pdf">Law of Attraction_ The Secret Power of The Universe (Using Your Subconscious Mind, Visualization & Meditation for Manifesting Happiness, Love, Money & Success) Inspirational Self Help Book</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> (Law of Attraction: The Secret Power of The Universe (Using Your Subconscious Mind, Visualization &amp; Meditation for Manifesting Happiness, Love, Money &amp; Success) Inspirational Self Help Book  </p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">How to Motivate Creative People</h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/How-to-Motivate-Creative-People.pdf">How to Motivate Creative People</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">An e-book for leaders, managers, directors, and other creative people. It will help you: understand how motivation affects creativity, get better work out of creative people, avoid crushing people’s motivation, use rewards effectively, understand and influence many different types of people, facilitate creative collaboration.</p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">How Humans Judge Machines </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/How-Humans-Judge-Machines.pdf">How Humans Judge Machines</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">How Humans Judge Machines compares people's reactions to actions performed by humans and machines. Using data collected in dozens of experiments, this book reveals the biases that permeate human-machine interactions. </p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">How To Improve Memory </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/How%20To%20Improve%20Memory%20-%20The%20Ultimate%20Mind%20Power%20Manual%20-%20The%20Best%20Brain%20Exercises%20to%20Improve%20Your%20Memory%20and%20Master%20Your%20Mind%20Power%20(%20PDFDrive%20)%20(1).pdf">How To Improve Memory - The Ultimate Mind Power Manual - The Best Brain Exercises to Improve Your Memory and Master Your Mind Power</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> How To Improve Memory - The Ultimate Mind Power Manual - The Best Brain Exercises to Improve Your Memory and Master Your Mind Power (Success Sculpting Coach Series) </p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Give and Take </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/give-and-take.pdf">Give and Take</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">An innovative, groundbreaking book that will captivate readers of Malcolm Gladwell, Daniel Pink, The Power of Habit, and Quiet For generations, we have focused on the individual drivers of success: passion, hard work, talent, and luck. But today, success is increasingly dependent on how we interact with others. </p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Algebra A Computational Introduction</h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/Algebra-A-Computational-Introduction.pdf">Algebra A Computational Introduction</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">Adequate texts that introduce the concepts of abstract algebra are plentiful. None, however, are more suited to those needing a mathematical background for careers in engineering, computer science, the physical sciences, industry, or finance than Algebra: A Computational Introduction. </p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Chetan Bhagat -three mistakes of my life </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="http://media0.evenweb.com/files/media0:53404a51523f4.pdf.upl/Chetan%20Bhagat%20-three%20mistakes%20of%20my%20life.pdf">Chetan Bhagat -three mistakes of my life</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> This was the first book or more to say a novel, I read in my life. when I read other reviews about this book and also enquired with my friends, they were not very happy about this book but when I read this book I felt the same language which we are used to from Chetan's books, yes it is nowhere near to his works  </p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">100 ways to motivate yourself. </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">100 ways to motivate yourself.</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">"If you take the best of Wayne Dyer and add it to the best of Anthony Robbins, what you would have would only be half as good as Steve Chandler."--Dale Dauten, Chicago Tribune"Some books that can help you awaken and begin to change are ones by Steve Chandler, who, I am reading lately. Great stuff. </p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">A history of the world </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/a-history-of-the-world1.pdf">A history of the world </h2>
+                                                    <p class="tm-text"><!DOCTYPE html></a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">Fresh, exciting and vividly readable, this is popular history at its very best.Our understanding of world history is changing, as new discoveries are made on all the continents and old prejudices are being challenged. </p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Creativity And Problem Solving</h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/Creativity_And_Problem_Solving.pdf">Creativity And Problem Solving</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">Recent research has revealed a direct causality between ideas and profitability, which means that in today’s ultra-competitive and technology-rich work environment, the most crucial element separating an exceptional career from a lackluster one is . . . creative thinking skills.</p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">English literature </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/englishliterature.pdf">English literature</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">However, until the early 19th century, it only deals with the literature of the United Kingdom, the Crown dependencies and Ireland. It does not include literature written in the other languages of Britain. The English language has developed over the course of more than 1,400 years</p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">History of Hindi Literature </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/HistoryofHindiLiteratureCopy.pdf">History of Hindi Literature</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">Hindi literature (Hindi: हिन्दी साहित्य, Hindi Sahitya) includes literature in the various Central Zone Indo-Aryan languages which have writing systems. It is broadly classified into four prominent forms (styles) based on the date of production</p></b>
+                                                </div>          
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">how successful people think change your thinking change your life </h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/howsuccessfulpeoplethink-changeyourthinkingchangeyourlife-150414064712-conversion-gate01-ID-3023c225-7df9-4268-9ab4-d2b9cb3d4c62.pdf">how successful people think change your thinking change your life </a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text"> At the heart of John C. Maxwell's brilliant and inspiring book is a simple premise: To do well in life, we must first think well. But can we actually learn new mental habits? Thinking for a Change answers that with a resounding "yes" -- and shows how changing your thinking can indeed change your life.  </p></b>
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div>
+									<div class="tm-flex tm-3-col-container">
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">Psychology A Self Teaching Guide English </h2>                                           
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/Psychology-A-Self-Teaching-Guide-English.pdf">Psychology A Self Teaching Guide English</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">Their aim is to give you some idea of what you need to pay attention to in the chapter. The objectives help to give your study focus and direct you to what is of particular importance in the chapter. </p></b>
+                                                </div>
+												
+												
+												
+                                            </div>
+                                            <div class="tm-3-col-textbox tm-bg-white-translucent">
+                                                <div class="text-xs-left tm-textbox tm-textbox-padding">
+
+                                                    <h2 class="tm-text-title">RH_StudyGuide_V2</h2>
+                                                    <p class="tm-text"><!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/sumit%20raghuwanshi/Desktop/Pbl%20Website/books/image/RH_StudyGuide_V2.pdf">RH_StudyGuide_V2</a>.</p>
+  </body>
+</html></p>
+
+                                                    <b><p class="tm-text">RESISTING HAPPINESS A true story about why we sabotage ourselves, feel overwhelmed, set aside our dreams, and lack the courage to simply be ourselves . . . and how to start choosing happiness again! MATT HE W K E L LY NEW YORK TIMES BESTSELLING AUTHOR STUDY GUIDE
+
+</p></b>
+                                                </div>          
+                                            </div>
+                                           
+
+                                     
+                                                </div>
+												
+                                            </div> 
+											
+                                    </div> 
+                                </div>
+                        </div>         
+                    </div>
+					
+                </li>
+
+                <li>
+                    <div class="cd-full-width">
+				   
